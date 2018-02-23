@@ -1,4 +1,4 @@
-export default [[
+export default [
   {
     "id": 1,
     "titulo": "Batata Palha Ki Sabor 120g Tradicional",
@@ -335,4 +335,4 @@ export default [[
     "link": "https://www.publicdrive.com.br/products/cebola-nacional-kilo",
     "preco": 2.99
   }
-]]
+]
